@@ -7,4 +7,4 @@ Facebook group link: https://www.facebook.com/groups/daanvir.india/
 
 #-> I participated in Zonal Round of RoboTryst-2014 held at NIT Srinagar organised by Robosapiens Technologies Pvt. Ltd. in association with Tryst-2014 IIT Delhi. 
 
-#-> I also participated in IBM Bluemix Enablement Session, held in NIT Srinagar organised by Country Leader, Cloud Ecosystem Development, India/ South Asia. 
+#-> I also participated in IBM Bluemix Enablement Session, held in NIT Srinagar organised by Nilkant Iyer, Country Leader, Cloud Ecosystem Development, India/ South Asia. 
