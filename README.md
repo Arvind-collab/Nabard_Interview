@@ -1,7 +1,7 @@
 # Nabard_Interview
 Project #1 [2020 Jan- Feb]: After passing an online exam conducted by greatlearning through Hackerearth, I was selected for learning the basics of Data Science, under the guidance of Dr. Abhinanda Sarkar, Academic director, greatlearning. In their beginner's about one month course, I scored 70/70 total marks in assignments and projects. 
 
-Project #2 [2015 Sept- 2017 Aug]: "Daanvir India". My responsibility was to develop the whole website from scratch and integrate Timeline feature, social connectivity, login apis, payment gateways, donation cart, blogging feature, database creation and management, security etc. 
+Project #2 [Phase I : 2015 Sept- 2017 Aug]: "Daanvir India". My responsibility was to develop the whole website from scratch and integrate Timeline feature, social connectivity, login apis, payment gateways, donation cart, blogging feature, database creation and management, security etc. 
 An advertisement for this platform can be found here: https://youtu.be/E-Eneulbg9U  or  https://youtu.be/sgHd2I8GCoU
 Facebook group link: https://www.facebook.com/groups/daanvir.india/
 
